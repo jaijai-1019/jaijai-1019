@@ -2,7 +2,7 @@
 
 <p>Helloo~ I'm Jai! some random student who wish to learn how to program really well yet is lazy and dum asf</p>
 # 💫 About Me:
-I'm a computer science student<br>a digital artist<br>
+I'm a computer science student<br>A digital illustrator<br>
 
 
 ## 🌐 Socials:
@@ -20,4 +20,4 @@ I'm a computer science student<br>a digital artist<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=jaijai-1019&icon=9&color=10)](https://visitcount.itsvg.in)
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
