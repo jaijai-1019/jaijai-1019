@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-<p>Helloo~ I'm Jai! some random student who wish to learn how to program really well yet is lazy and dum asf</p>
-# 💫 About Me:
-I'm a computer science student<br>A digital illustrator<br>
+<h1>💫ABOUT ME:</h1>
+
+<p>Helloo~ I'm Jai! A computer science student and a digital illustrator<br> some random student who wish to learn how to program really well yet is lazy and dum asf</p>
+<br>
 
 
 ## 🌐 Socials:
