@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 <h1>💫ABOUT ME:</h1>
-
-<p>Helloo~ I'm Jai! A computer science student and a digital illustrator<br> some random student who wish to learn how to program really well yet is lazy and dum asf</p>
+<h4>Helloo~ I'm Jai! A computer science student and a digital illustrator<br> some random student who wish to learn how to program really well yet is lazy and dum asf</h4>
 <br>
 
 
